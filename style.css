@@ -1,0 +1,30 @@
+
+.btn{
+    background-color: yellow;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 40px;
+    cursor: pointer;
+    
+}
+
+.btn:hover,
+.btn:focus{
+    background-color:orange
+}
+
+.link{
+  color: orange;
+}
+.link:focus{
+color: red;
+}
+.text{
+    
+    font-size: 18px;
+    font-style: italic;
+
+}
